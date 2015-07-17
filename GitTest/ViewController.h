@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 @property NSString *name;
+@property NSArray *nameArray;
 
 @end
 
