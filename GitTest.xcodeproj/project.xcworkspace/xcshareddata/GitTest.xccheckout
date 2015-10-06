@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>8668FEC8-9B6C-4D07-92CD-5ECCBDB43F54</string>
 	<key>IDESourceControlProjectName</key>
-	<string>GitTest</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>23E20AD974997D839F762A5B43C0816F84599D6B</key>
 		<string>https://github.com/santhosh3354/Santo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>GitTest.xcodeproj</string>
+	<string>GitTest.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>23E20AD974997D839F762A5B43C0816F84599D6B</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>23E20AD974997D839F762A5B43C0816F84599D6B</string>
 			<key>IDESourceControlWCCName</key>
-			<string>GitTest</string>
+			<string>Santo</string>
 		</dict>
 	</array>
 </dict>
