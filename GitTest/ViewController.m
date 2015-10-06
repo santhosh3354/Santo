@@ -21,6 +21,7 @@
     
     
     name=@"Santhosh Kumar";
+    nameArray=@[@"first"];
 }
 
 - (void)didReceiveMemoryWarning {
